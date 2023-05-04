@@ -1,0 +1,29 @@
+{
+  "posts": [
+    { "id": 1, 
+    "name": "MuscleTech NitroTech Whey Protein, 2 kg (4.4 lb), Milk Chocolate - India", 
+    "brand": "MuscleTech",
+    "image":"https://img5.hkrtcdn.com/23007/prd_2300684-MuscleTech-NitroTech-Whey-Protein-4.4-lb-Milk-Chocolate-India_o.jpg",
+    "totalPrice":7779,
+    "discount":23,
+    "category":"Whey Protein",
+    "rate":{
+        "rating":4.1,
+        "rateBy":72
+    } 
+    },
+     { "id": 1, 
+    "name": "MuscleTech Platinum Multi Vitamin, 90 tablet(s)", 
+    "brand": "MuscleTech",
+    "image":"https://img6.hkrtcdn.com/15970/prd_1596975-MuscleTech-Multi-Vitamin-90-tablets-Unflavoured_o.jpg",
+    "totalPrice":1699,
+    "discount":15,
+    "category":"Multi-Vitamins",
+    "rate":{
+        "rating":4.6,
+        "rateBy":92
+    } 
+    }
+
+  ]
+}
